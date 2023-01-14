@@ -1,0 +1,21 @@
+Epekto ng Political Dynasty
+
+masamang Epekto {
+    ang mga makapangyarihang angkan o pamilya ay nakapokus sa kaunlaran ng kanilang nasasakupan at hindi ng buong bansa
+
+    Naghahadlang ang reporma sa mga ekonomikong institusyon ng mga dinastiyang nakikinabang sa tinatawag na status quo
+
+    May nakaambang panganib na gamitin ang pondo at iba pang yaman ng bansa para sa personal na interes ng bilang ng iilang maimpluwensiyang pamilya
+
+    Nalilimitan din ang pagpipilian ng taong-bayan ng mga pinunong ihahalal kung iilang angkan lamang ang namamayagpag sa kandidatura
+}
+
+magandang Epekto {
+    nagkakaroon ng magandang pamamahala sa isang lugar dahil sa magandang hangarin ng angkan na may hawak dito
+
+    ipinagpapatuloy na nila ang magagandang proyekto sa lugar na hawak nila at dahil dito ay magandang nagiging pasok ng mga
+    negosyante sa kanilang lugar bunsod ng mabuting kalagayan ng kanilang bansa, lungsod, o lalawigan
+
+    Kapag ganitong klase ang dinastiya, mas marami ang trabaho, mas mura ang bilihin, at mas nakaktipid ang mga mamamayan
+
+}
